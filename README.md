@@ -1,4 +1,4 @@
-# Termux apps on Google Play
+# Termux apps on Google Playpack ubdate
 
 This repository contains the source code used in the [current Termux build](https://play.google.com/store/apps/details?id=com.termux&hl=en) on Google Play.
 
